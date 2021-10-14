@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
 *,
 *::before,
 *::after {
@@ -10,8 +11,9 @@ html{
 body{
     margin: 0;
     padding: 0;
-    font-family: sans-serif;
-    background-color: #fafafa!important;
+    /* font-family: sans-serif; */
+    font-family: 'Baloo 2', cursive !important;
+    background-color: #f7f7f7!important;
    
 }
 .nav-item{
