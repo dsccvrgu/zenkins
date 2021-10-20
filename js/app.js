@@ -1,3 +1,4 @@
+//fixed scroll in navback
 $(window).scroll(function() {
     if ($(window).scrollTop() > 10) {
         $('nav').addClass('navback');
